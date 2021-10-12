@@ -1,3 +1,5 @@
+[한국어 문서](./README_ko.md)
+
 # pypi-template
 
 Template for python package
