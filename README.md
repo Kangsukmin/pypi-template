@@ -4,6 +4,12 @@
 
 Template for python package
 
+# Clone this project
+```
+npx degit https://github.com/Kangsukmin/pypi-template your_project
+cd your_project
+```
+
 # How to use
 
 1. Make your package in src/{package_name}
