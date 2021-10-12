@@ -2,6 +2,12 @@
 
 파이썬 패키지 배포를 위한 탬플릿
 
+# Clone this project
+```
+npx degit https://github.com/Kangsukmin/pypi-template your_project
+cd your_project
+```
+
 # How to use
 
 1. src/{패키지이름} 에 패키지를 만드세요
