@@ -17,7 +17,7 @@ cd your_project
 2. Install some packages
 
 ```
-pip install setuptools wheel twine
+pip install --upgrade setuptools wheel twine
 ```
 
 3. Fill in the blanks on setup.py
